@@ -1,4 +1,4 @@
-# 📌 Ferramenta de Compilação de Dados para Declaração de Imposto de Renda
+# 📌 Ferramenta de Compilação de Dados para Declaração de Imposto de Renda em Excel
 
 Uma solução prática para organizar e compilar as informações necessárias à declaração do imposto de renda, proporcionando um ambiente alternativo ao programa oficial.
 
